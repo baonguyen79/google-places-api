@@ -1,5 +1,5 @@
 $(document).ready(() => {
-	const apiKey = "AIzaSyBQ1bB9peG-l4tGqAdYjTfoNjMX1JSs-qU";
+	const apiKey = "";
 
 	$("body").on("click", "li", (e) => {
 
